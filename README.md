@@ -1,4 +1,1 @@
-low level programming enthusiast 
-studying C and Rust
-
-techs: Python, React, Node.JS, SQL, C# .Net, Angular and Git
+bla bla bla bla bla bla depois eu arrumo isso daqui
